@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "MuDabbir Alam Portfolio",
     type: "website",
-    url: "http://MuDabbiralam.com/",
+    url: "mohdmudabbiralam.github.io",
   },
 };
 
