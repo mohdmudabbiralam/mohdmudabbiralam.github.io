@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "MuDabbir's Portfolio",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Mudabbir, founder of AALMI Architect, is  an experienced  architect specializing  in   sustainable  design  for residential, commercial, and urban projects. A Jamia Millia Islamia graduate, he creates functional, creative spaces that meet users' needs.",
   og: {
     title: "MuDabbir Alam Portfolio",
     type: "website",
@@ -21,9 +21,9 @@ const seo = {
 const greeting = {
   title: "MuDabbir Alam",
   logo_name: "MuDabbir Alam",
-  nickname: "Alami Architect",
+  nickname: "Aalmi Architect",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Mudabbir, founder of AALMI Architect, is  an experienced  architect specializing  in sustainable design for residential, commercial, and urban projects. A Jamia Millia Islamia graduate, he creates functional, creative spaces that meet users' needs.",
   resumeLink:
     "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
   // portfolio_repository: "https://github.com/MuDabbir1919/masterPortfolio",
@@ -726,27 +726,27 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_MuDabbir.png",
+    profile_image_path: "animated_ashutosh.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with Layout planning, Interior designing, MEP services and many more.",
   },
   blogSection: {
     title: "Blogs",
     subtitle:
       "I like to document some of my experiences in professional career journey as well as some technical knowledge sharing.",
-    link: "https://blogs.MuDabbirhathidara.com/",
+    link: "https://mohdmudabbiralam.github.io/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Address",
-    subtitle: "Saratoga Ave, San Jose, CA, USA 95129",
-    locality: "San Jose",
-    country: "USA",
-    region: "California",
-    postalCode: "95129",
-    streetAddress: "Saratoga Avenue",
+    subtitle: "Jamia Milla, Delhi, India 110025",
+    locality: "Jamia Milla",
+    country: "India",
+    region: "Delhi",
+    postalCode: "110025",
+    streetAddress: "Jamia",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://maps.app.goo.gl/NvYZqa34Wye4tpS17",
+    location_map_link: "https://maps.app.goo.gl/D6XpbyvXgXSnwDXb7",
   },
   phoneSection: {
     title: "",
